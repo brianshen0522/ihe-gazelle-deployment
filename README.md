@@ -6,13 +6,13 @@
 Gazelle is a test bed aimed at testing the interoperability of eHealth information systems.
 
 ### Gazelle components
-* [SSO](Gazelle SSO.md)
-* [Gazelle Test Management](Gazelle Test Management.md)
-* [Proxy](Gazelle Proxy.md)
+* [SSO](Gazelle_SSO.md')
+* [Gazelle Test Management](Gazelle_Test_Management.md)
+* [Proxy](Gazelle_Proxy.md)
 * [EVSClient](EVSClient.md)
-* [Demographic Data Server](Demographic Data Server.md)
-* [Gazelle Fhir Validator](Gazelle FHIR Validator.md)
-* [Gazelle HL7 Validator](Gazelle HL7 Validator.md)
+* [Demographic Data Server](Demographic_Data_Server.md)
+* [Gazelle Fhir Validator](Gazelle_FHIR_Validator.md)
+* [Gazelle HL7 Validator](Gazelle_HL7_Validator.md)
 
 ### How do Gazelle works
 all gazelle subsystem run's on AP servers (application servers),including Tomcat Jboss Wildfly
