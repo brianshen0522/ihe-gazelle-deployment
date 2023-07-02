@@ -6,7 +6,7 @@
 Gazelle is a test bed aimed at testing the interoperability of eHealth information systems.
 
 ### Gazelle components
-* [SSO](Gazelle_SSO.md')
+* [SSO](Gazelle_SSO.md)
 * [Gazelle Test Management](Gazelle_Test_Management.md)
 * [Proxy](Gazelle_Proxy.md)
 * [EVSClient](EVSClient.md)
